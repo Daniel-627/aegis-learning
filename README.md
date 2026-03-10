@@ -2,7 +2,7 @@
 
 > *"Every expert was once a beginner who refused to quit."*
 
-This is your personal learning repository. Every concept you study, every problem you solve, every note you take lives here. This repo is your brain — externalised, versioned, and searchable.
+This is my personal learning repository. Every concept i study, every problem I solve, every note I take lives here. This repo is my brain — externalised, versioned, and searchable.
 
 ---
 
@@ -153,4 +153,4 @@ Every code file you write must have this structure at the top:
 
 ---
 
-*This repo is evidence. Every commit is proof that you showed up.*
+*This repo is evidence. Every commit is proof that I showed up.*
