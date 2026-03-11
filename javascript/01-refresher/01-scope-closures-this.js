@@ -1,6 +1,6 @@
 /**
  * TOPIC: JavaScript Refresher — Scope, Closures, and `this`
- * DATE: Start here. Fill in today's date.
+ * DATE: 10/03/2026.
  *
  * WHAT IS IT (plain English):
  *   Scope defines WHERE a variable is accessible.
